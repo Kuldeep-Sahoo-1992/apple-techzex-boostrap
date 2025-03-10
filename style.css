@@ -1,0 +1,36 @@
+.logo {
+  width: 100px;
+}
+.card-image {
+  transition: transform 0.3s ease;
+}
+
+.card-image:hover {
+  transform: scale(1.2);
+}
+
+.div-dark {
+  background-color: #0a0130 !important;
+}
+
+.off {
+  position: absolute;
+  right: -2px;
+  top: 0;
+}
+input{
+  background-color: red;
+}
+.big-img{
+    width: 350px;
+}
+.sm-img{
+    width: 250px;
+    
+}
+.contact-detailes{
+    text-decoration: none;
+    color: black;
+    font-size: 23px;
+    font-weight: 700;
+}
